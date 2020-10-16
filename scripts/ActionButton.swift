@@ -2,7 +2,7 @@
 //  ActionButton.swift
 //  miniChallengeTeste
 //
-//  Created by Carlos Fontes on 06/06/19.
+//  Created by Eduardo Airton
 //  Copyright © 2019 Carlos Fontes. All rights reserved.
 //
 
